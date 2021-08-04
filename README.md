@@ -8,7 +8,6 @@ Landing page for group chat application
     <li>TailwindCSS</li>
     <li>HTML</li>
   </ol>
-
 <br></br>
   <h2>Demo:-</h2>
   https://group-chat-app-21.netlify.app/
